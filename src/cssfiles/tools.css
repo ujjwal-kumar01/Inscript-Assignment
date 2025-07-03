@@ -1,4 +1,4 @@
-input:hover{
+input:focus {
     background-color: #c2c1c1;
     color: #000;
 }
