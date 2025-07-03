@@ -21,17 +21,6 @@ This project is a dynamic and responsive spreadsheet-style data table built with
 - **Lucide React Icons**
 - **Custom SVG assets**
 
-## 📂 Folder Structure
-
-├── components/
-│ ├── Spreadsheet.tsx # Main component
-│ ├── ui/
-│ │ ├── badge.tsx # Custom badge component
-│ │ ├── breadcrumb.tsx # Ellipsis component
-├── assets/ # All icons/images used
-├── lib/utils.ts # Utility functions (like cn)
-
-
 ## 🖼️ Preview
 
 | Feature | Screenshot |
@@ -45,7 +34,7 @@ This project is a dynamic and responsive spreadsheet-style data table built with
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/spreadsheet-table.git
+   git clone https://github.com/ujjwal-kumar01/Inscript-Assignment.git
    
 Install dependencies
 npm install
