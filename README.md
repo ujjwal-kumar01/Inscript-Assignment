@@ -36,8 +36,8 @@ This project is a dynamic and responsive spreadsheet-style data table built with
    ```bash
    git clone https://github.com/ujjwal-kumar01/Inscript-Assignment.git
    
-Install dependencies
+## Install dependencies
 npm install
 
-Start development server
+## Start development server
 npm run dev
